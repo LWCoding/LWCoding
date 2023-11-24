@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LWCoding! I'm a college student currently attending Stanford University to major in CS.
+- 👋 Hi, I’m @LWCoding! I'm a college student currently attending Stanford University to major in CS and Design.
 - 👀 I'm interested in the interdisciplinary nature of art in computer science. I look forward to working with all kinds of mediums with the sole purpose of creating.
 - 🌱 I’m currently learning so many things. From programming in Unity, to programming in React, to drawing digital artwork, to music composition, to project management, to story writing. I embrace everything when it comes to design and development.
 - 📫 How to reach me? My personal email is lwangprivate@gmail.com.
